@@ -2,7 +2,7 @@
 
 ## Description
 Accompanying code for "Inference on the history of a randomly growing tree" by Harry Crane and Min Xu.
-COMING SOON: a more general package that handles networks with cycles.
+**COMING SOON:** a more general package that handles networks with cycles.
 
 The main file is "tree_tools.R". 
 Trees are represented as adjacency lists and converted to
