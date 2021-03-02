@@ -14,7 +14,7 @@ an n-dimensional vector of the posterior root probabilities for a
 tree of n nodes. See other files for examples. 
 
 ## Requirement
-igraph R package. 
+The _igraph_ package, available on CRAN. 
 
 ## Usage
 To run the files (e.g. paper_exp.R), download all files into one directory and use the command
