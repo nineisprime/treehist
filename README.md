@@ -12,8 +12,11 @@ In "tree_tools.R", the function "countAllHist(tree)" will return
 an n-dimensional vector of the posterior root probabilities for a 
 tree of n nodes. See other files for examples. 
 
+## Requirement
+igraph R package. 
+
 ## Usage
-To run the files, download all files into one directory and use the command
+To run the files (e.g. paper_exp.R), download all files into one directory and use the command
 
   > source("paper_exp.R")
 
