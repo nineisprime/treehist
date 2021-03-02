@@ -15,6 +15,6 @@ tree of n nodes. See other files for examples.
 ## Usage
 To run the files, download all files into one directory and use the command
 
-  source("paper_exp.R")
+  > source("paper_exp.R")
 
 in an R console. 
