@@ -7,7 +7,9 @@
 ## EX:
 ## length(mytree)   number of nodes
 ## mytree[u]      a vector of all children of node u
-
+##
+## Author: Min Xu
+## Last updated: 3/02/201
 
 ## Some examples:
 
